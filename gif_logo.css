@@ -20,11 +20,27 @@
   opacity: 0;
 }
 @media screen and (max-width: 767px) {
+    .p-profiles .profile-head .c-brief .avatar .profile-actions {
+      display: none
+    }
+    .p-profiles .profile-head .c-brief .avatar:after {
+        transform: scale(0.9) !important;
+        width: 100px;
+        height: 100px;
+        left: -10%;
+        top: -20% !important;
+    }
+}
+
+@media screen and (max-width: 480px) {
+  .p-profiles .profile-head .c-brief .avatar .profile-actions {
+      display: none
+    }
     .p-profiles .profile-head .c-brief .avatar:after {
         transform: scale(1.3) !important;
         width: 100px;
         height: 100px;
         left: 35%;
-        top: -70% !important;
+        top: -60% !important;
     }
 }
