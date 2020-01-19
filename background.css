@@ -1,0 +1,24 @@
+/* Настройки переменных темы */
+@media{:root {
+  /* Обложка профиля */
+  --user-cover: url(https://i.imgur.com/Nd01MSz.jpg);
+  /* Фон сайта */
+  --user-background: url(https://i.imgur.com/xsT1J5G.jpg);
+}}
+
+body {
+  background-attachment: fixed;
+  background-size: cover;
+}  
+/* Моя обложка в профиле */
+.p-profiles .profile-head[data-user-id="485232"]::before {
+  display: block; /* Отображение обложки */
+  background-position: center 50%;
+}
+.p-profiles-show .achievements .cc-franchises .b-badge:nth-child(n+5) {
+  display: inline-block;
+}
+
+or-completed: #4b533a;
+  --color-dropped: #552f2f;
+}
