@@ -27,7 +27,7 @@
         width: 100px;
         height: 100px;
         left: -10%;
-        top: -15% !important;
+        top: -10% !important;
     }
 }
 @media screen and (max-width: 480px) {
