@@ -8,7 +8,7 @@
     padding: 0;
     display: block;
     position: static;
-    float: left;
+    float: inherit;
     bottom: auto;
     left: auto;
     width: auto;
