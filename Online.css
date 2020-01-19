@@ -1,0 +1,17 @@
+/*Онлайн статус*/
+.p-profiles header.head .misc span, .p-profiles header.head .misc a {
+    display: none;
+}
+
+.p-profiles header.head .misc::before {
+    content: "Всегда на отдыхе";
+    padding: 0;
+    display: block;
+    position: static;
+    float: left;
+    bottom: auto;
+    left: auto;
+    width: auto;
+    height: auto;
+    background: none;
+}
