@@ -15,7 +15,6 @@
   background-size: cover;
   background-position: 90%;
 }
-
 .p-profiles .profile-head .c-brief .avatar img {
   opacity: 0;
 }
@@ -31,7 +30,6 @@
         top: -20% !important;
     }
 }
-
 @media screen and (max-width: 480px) {
   .p-profiles .profile-head .c-brief .avatar .profile-actions {
       display: none
