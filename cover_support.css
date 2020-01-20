@@ -1,0 +1,11 @@
+.p-profiles-show .profile-content .cc-2 > .c-column:last-child > .block {
+  display:none;
+}
+
+.p-profiles .profile-content>.cc-2 .c-left {
+  margin-bottom: 0;
+}
+
+.p-profiles-show .profile-content .graph.vertical.x34 {
+      height: 275px;
+}
