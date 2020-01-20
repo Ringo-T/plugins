@@ -44,5 +44,5 @@
 /* Смена обложки – Арчер (персонаж) */
 .b-catalog_entry a[href *= 'characters/2087-'] .image-cutter,
 .b-catalog_entry-tooltip > a[href *= 'characters/2087-'] {
-  background-image: url(https://i.imgur.com/JHMBKru.jpg);
+  background-image: url(https://i.imgur.com/aUMmGJo.png);
 }
