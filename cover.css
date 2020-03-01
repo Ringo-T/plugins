@@ -48,7 +48,7 @@
   background-image: url(https://i.imgur.com/aUMmGJo.png);
 }
 /* Смена обложки – Канадэ (персонаж) */
-.b-catalog_entry a[href *= 'characters/147242-'] .image-cutter,
+.b-catalog_entry a[href *= 'characters/165459-'] .image-cutter,
 .b-catalog_entry-tooltip > a[href *= 'characters/165459-'] {
   background-image: url(https://i.imgur.com/ipbqK6S.jpg);
 }
