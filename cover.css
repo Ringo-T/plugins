@@ -17,7 +17,7 @@
 }
 
 /* Список селекторов – скрываем стандартные обложки */
-[class *= 'b-catalog_entry'] > a[href *= 'characters/107107-'] img,
+[class *= 'b-catalog_entry'] > a[href *= 'characters/5627-'] img,
 [class *= 'b-catalog_entry'] > a[href *= 'characters/503-'] img,
 [class *= 'b-catalog_entry'] > a[href *= 'characters/147242-'] img,
 [class *= 'b-catalog_entry'] > a[href *= 'characters/2087-'] img,
@@ -54,7 +54,7 @@
   background-image: url(https://i.imgur.com/ipbqK6S.jpg);
 }
 /* Смена обложки – Женя (персонаж) */
-.b-catalog_entry a[href *= 'characters/107107-'] .image-cutter,
-.b-catalog_entry-tooltip > a[href *= 'characters/107107-'] {
+.b-catalog_entry a[href *= 'characters/5627-'] .image-cutter,
+.b-catalog_entry-tooltip > a[href *= 'characters/5627-'] {
   background-image: url(https://i.imgur.com/mr1RGpe.jpg);
 }
