@@ -2,7 +2,7 @@
   display:none;
 }
 
-.p-profiles .profile-content>.cc-2 .c-right .cc-2a {
+.p-profiles-show.x1200 .profile-content .c-right>.subcontent:last-child {
   display:none;
 }
 
