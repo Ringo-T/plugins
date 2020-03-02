@@ -21,7 +21,7 @@
 [class *= 'b-catalog_entry'] > a[href *= 'characters/147242-'] img,
 [class *= 'b-catalog_entry'] > a[href *= 'characters/2087-'] img,
 [class *= 'b-catalog_entry'] > a[href *= 'characters/165459-'] img,
-[class *= 'b-catalog_entry'] > a[href *= 'characters/107107'] img,
+[class *= 'b-catalog_entry'] > a[href *= 'characters/107107-'] img,
 [class *= 'b-catalog_entry'] > a[href *= 'characters/13701-'] img {
   opacity: 0;
 }
@@ -54,6 +54,6 @@
   background-image: url(https://i.imgur.com/ipbqK6S.jpg);
 }
 /* Смена обложки – Женя (персонаж) */
-.b-catalog_entry a[href *= 'characters/165459-'] .image-cutter,
-.b-catalog_entry-tooltip > a[href *= 'characters/107107'] {
+.b-catalog_entry a[href *= 'characters/107107-'] .image-cutter,
+.b-catalog_entry-tooltip > a[href *= 'characters/107107-'] {
   background-image: url(https://i.imgur.com/mr1RGpe.jpg);
