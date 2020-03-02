@@ -1,6 +1,7 @@
 .p-profiles-show .profile-content .cc-2 > .c-column:last-child > .block {
   display:none;
 }
+
 .p-profiles-show.x1200 .profile-content .c-right>.block:last-child, .p-profiles-show.x1200 .profile-content .c-right>.subcontent:last-child {
   display:none;
 }
