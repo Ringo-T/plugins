@@ -11,9 +11,9 @@
   top: 0%;
   left: 5%;
   border-radius: 50%;
-  background: url("https://i.imgur.com/CnfrhXO.gif");
+  background: url("https://i.imgur.com/dKTM1V4.gif");
   background-size: cover;
-  background-position: 90%;
+  background-position: 50%; /*90%*/
 }
 .p-profiles .profile-head .c-brief .avatar img {
   opacity: 0;
