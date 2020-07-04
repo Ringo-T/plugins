@@ -22,6 +22,7 @@
 [class *= 'b-catalog_entry'] > a[href *= 'characters/147242-'] img,
 [class *= 'b-catalog_entry'] > a[href *= 'characters/2087-'] img,
 [class *= 'b-catalog_entry'] > a[href *= 'characters/165459-'] img,
+[class *= 'b-catalog_entry'] > a[href *= 'characters/163811-'] img,
 [class *= 'b-catalog_entry'] > a[href *= 'characters/13701-'] img {
   opacity: 0;
 }
@@ -57,4 +58,9 @@
 .b-catalog_entry a[href *= 'characters/5627-'] .image-cutter,
 .b-catalog_entry-tooltip > a[href *= 'characters/5627-'] {
   background-image: url(https://i.imgur.com/e8TVjpi.jpg);
+}
+/* Смена обложки – Майн (персонаж) */
+.b-catalog_entry a[href *= 'characters/163811-'] .image-cutter,
+.b-catalog_entry-tooltip > a[href *= 'characters/163811-'] {
+  background-image: url(https://i.imgur.com/TKEfYqh.jpg);
 }
