@@ -63,4 +63,5 @@
 .b-catalog_entry a[href *= 'characters/163811-'] .image-cutter,
 .b-catalog_entry-tooltip > a[href *= 'characters/163811-'] {
   background-image: url(https://i.imgur.com/TKEfYqh.jpg);
+  background-position: 60%;
 }
